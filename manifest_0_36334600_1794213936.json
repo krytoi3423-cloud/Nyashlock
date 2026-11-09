@@ -1,0 +1,3 @@
+{
+    "text": "{\n  \"name\": \"ChigiriNyashLoker\",\n  \"short_name\": \"Loker\",\n  \"start_url\": \".\/index.html\",\n  \"display\": \"standalone\",\n  \"background_color\": \"#000000\",\n  \"theme_color\": \"#000000\",\n  \"icons\": [\n    {\n      \"src\": \"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg==\",\n      \"sizes\": \"192x192\",\n      \"type\": \"image\/png\"\n    }\n  ]\n}"
+}
